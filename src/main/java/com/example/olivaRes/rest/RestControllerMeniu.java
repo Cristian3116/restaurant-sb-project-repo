@@ -10,11 +10,11 @@ public class RestControllerMeniu {
     public String Meniu() {
 
         return "<h1 style=\"background-color:D1BD47;\"> Meniu:</h1>"  +
-                "<br> 1. Supă de pui  <br/>"    +
-                "<br> 2. Cartofi prăjiți <br/>" +
-                "<br> 3.Șnițel de pui <br/>"    +
-                "<br> 4. Salată simplă (roșii + castraveți) <br/>" +
-                "<br> 5. Clătite cu dulceață <br/> ";
+                "<br> 1. Supă de pui <b> (Pret: 40 lei) </b> <br/>"    +
+                "<br> 2. Cartofi prăjiți <b> (Pret: 20 lei)</b> <br/>" +
+                "<br> 3.Șnițel de pui <b> (Pret: 50 lei)</b> <br/>"    +
+                "<br> 4. Salată simplă (roșii + castraveți) <b> (Pret: 25 lei) </b> <br/>" +
+                "<br> 5. Clătite cu dulceață <b> (Pret: 30 lei) </b> <br/> ";
 
     }
 
